@@ -1,5 +1,5 @@
 require './lib/employee'
-require 'rspec'
+# require 'rspec'
 
 RSpec.describe 'Iteration 1' do
 
